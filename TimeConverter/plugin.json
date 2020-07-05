@@ -1,0 +1,12 @@
+{
+  "ID":"baacf5e5-e959-45a4-abda-b54b3e436903",
+  "ActionKeyword":"t",
+  "Name":"时间/日期转换器",
+  "Description":"提供时间戳和日期之间的相互转换",
+  "Author":"qinyu",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"http://www.baidu.com",
+  "IcoPath": "Images\\logo.png",
+  "ExecuteFileName":"main.py"
+}
