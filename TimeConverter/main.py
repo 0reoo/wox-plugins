@@ -42,6 +42,7 @@ class Main(Wox):
 
     def copy(self, result):
         wc.OpenClipboard()
+        wc.EmptyClipboard()
         wc.SetClipboardData(win32con.CF_UNICODETEXT, result)
         wc.CloseClipboard()
 
